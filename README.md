@@ -8,7 +8,7 @@ const me = {
   i_from: [Santa Marta, Magdalena, Colombia]
   code: [Html, Css, JavaScript, MySQL, Node],
   tools: [React, Express, Sequelize, Styled-Components, Docker, Linux, Git],
-  contact: "Adan//@gmail.com",
+  contact: "**",
   challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
   
 }
