@@ -14,7 +14,7 @@ const me = {
 }
 ```
 
-<a href="" target="_blank" rel="noreferrer"><img
+<a href="https://twitter.com/user73737474398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/*?logo=twitter&style=for-the-badge&color=facc15&labelColor=181824"
 /></a><a href="https://www.github.com/Adan2Net" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Adan2Net?logo=github&style=for-the-badge&color=facc15&labelColor=181824" />
