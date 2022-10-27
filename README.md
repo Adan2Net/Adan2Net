@@ -7,7 +7,8 @@ const me = {
   rol: "Backend Developer Jr.",
   i_from: [Santa Marta, Magdalena, Colombia]
   code: [Html, Css, JavaScript, C#, Java],
-  tools: [Node, React, Express, Nestjs, Sequelize, Styled-Components, Docker, Linux, Git, PostgreSQL, MongoDB, MySQL, SpringBoot],
+  tools: [Node, React, Express, Nestjs, Sequelize, Styled-Components, Docker, Linux, Git, 
+  PostgreSQL, MongoDB, MySQL, SpringBoot],
   contact: "**",
   challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
   
