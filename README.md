@@ -4,9 +4,9 @@
 ```javascript
 const me = {
 
-  rol: "Backend Developer Jr.",
-  i_from: [Santa Marta, Magdalena, Colombia]
-  code: [Html, Css, JavaScript, C#, Java],
+  rol: "FullStack Developer.",
+  i_from: [Colombia]
+  code: [JavaScript, C#, Java],
   tools: [Node, React, Express, Nestjs, Sequelize, Styled-Components, Docker, Linux, Git, 
   PostgreSQL, MongoDB, MySQL, SpringBoot],
   contact: "**",
