@@ -7,7 +7,7 @@ const me = {
   rol: "FullStack Developer.",
   i_from: [Colombia]
   code: [JavaScript, C#, Java],
-  tools: [Node, React, Express, Nestjs, Sequelize, Type-ORM, Styled-Components, Docker, Linux, Git, 
+  tools: [Node, React, Express, Nestjs, Sequelize, TypeORM, Styled-Components, Docker, Linux, Git, 
   PostgreSQL, MongoDB, MySQL, SQL-Server, SpringBoot],
   contact: "**",
   challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
